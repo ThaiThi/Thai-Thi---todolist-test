@@ -1,0 +1,27 @@
+.app {
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  margin: 20px;
+}
+
+.delete-all-btn:hover {
+  background-color: rgb(140, 10, 10);
+}
+
+.delete-all-btn {
+  box-sizing: border-box;
+  font-size: 15px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 5px;
+  margin-top: 10px;
+  background-color: rgb(237, 68, 68);
+}
+
+

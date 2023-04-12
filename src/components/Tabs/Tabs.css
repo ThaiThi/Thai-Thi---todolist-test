@@ -1,0 +1,29 @@
+.tab-content {
+  padding: 5px;
+  width: 100%;
+}
+
+.tabs {
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tab-btn:hover{
+  color: rgb(48, 126, 189);
+}
+.tab-btn.active {
+  color: #007bff;
+}
+.tab-btn {
+  display: inline-block;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 15px;
+  color: #797474;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+
